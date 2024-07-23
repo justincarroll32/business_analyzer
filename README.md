@@ -19,6 +19,7 @@ Google: https://developers.google.com/maps/documentation/javascript/get-api-key
 US Census: https://api.census.gov/data/key_signup.html
 
 Google API Documentation: https://developers.google.com/maps/documentation/places/web-service/details
+
 US Census API Documentation: https://www.census.gov/data/developers/guidance/api-user-guide.html
 
 Once you obtain your Google API key - put it in side the file marked "key.txt" so that it can be read into the program.
