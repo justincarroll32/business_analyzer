@@ -15,7 +15,9 @@ The **Business Analyzer** is a Python program designed to:
 ## API Keys
 
 Links to sites to get API keys, none is needed for the US census but one is required for the Google API:
+
 Google: https://developers.google.com/maps/documentation/javascript/get-api-key
+
 US Census: https://api.census.gov/data/key_signup.html
 
 Google API Documentation: https://developers.google.com/maps/documentation/places/web-service/details
